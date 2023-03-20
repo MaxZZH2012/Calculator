@@ -1,3 +1,4 @@
+# -*-coding:UTF-8-*-
 import tkinter  # 导入tkinter模块
 
 root = tkinter.Tk()
